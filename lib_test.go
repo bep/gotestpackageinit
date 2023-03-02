@@ -1,4 +1,4 @@
-package golibtemplate
+package gotestpackageinit
 
 import (
 	"testing"
